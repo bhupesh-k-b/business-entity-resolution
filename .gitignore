@@ -1,0 +1,27 @@
+# Supplied datasets and local submission resources
+student_resource/dataset/
+student_resource/.DS_Store
+
+# Generated indexes, models, reports, and inference output
+code/business_entity_resolution/cache/
+code/business_entity_resolution/reports/
+output/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS and editor files
+.DS_Store
+.vscode/
+
+# Local credentials and challenge-only documents
+rootkey.csv
+*.pdf
+Model/
+student_resource/README.md
+student_resource/Documentation_template.md
+code/business_entity_resolution/Documentation_template.md
